@@ -1,11 +1,10 @@
-# Project Name
+# Repo Template
 
-Project Description 
+Holds my files to use on new repository initialisation.
 
-## Live Version
+## Transfer-GitHub-Labels
 
-This page is not yet deployed.
-<!--This page is currently deployed. [View the live website.]()-->
+Delete this folder when creating a new repository. The code inside will allow the import/export of GH Labels for consistency.
 
 ## Feedback, Bugs, and Contributions
 
