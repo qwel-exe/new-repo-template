@@ -30,6 +30,4 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
 
-## Contact
 
-We may be contacted through our [Chat Server](http://chat.nhcarrigan.com) or via [email form](https://contact.nhcarrigan.com).
